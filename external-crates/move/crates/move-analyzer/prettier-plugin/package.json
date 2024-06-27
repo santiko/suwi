@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "prettier": "^3.1.1",
-    "web-tree-sitter": "0.20.8"
+    "web-tree-sitter": "0.22.6"
   },
   "devDependencies": {
     "@types/node": "20.10.6",
